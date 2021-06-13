@@ -27,6 +27,19 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+   <distributionManagement>
+    <repository>
+      <id>deployment</id>
+      <name>Nexus Releases Repository</name>
+      <url>http://54.234.81.150:8081/repository/maven-repo/</url>
+    </repository>
+    <snapshotRepository>
+      <id>deployment</id>
+      <name>Nexus Snapshots Repository</name>
+      <url>http://54.234.81.150:8081/repository/maven-snap-repo/</url>
+    </snapshotRepository>
+  </distributionManagement>
 
   <build>
     <finalName>webapp</finalName>
