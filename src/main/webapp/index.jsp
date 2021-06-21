@@ -1,7 +1,7 @@
 <html>
 <body bgcolor="yellow">
  <center>
-<h1> JENKINS KUBERNETES INTEGRATION</h1>
+<h1> JENKINS KUBERNETES CI CD INTEGRATION</h1>
   </center>
   <h1> 1. Java code is pushed to Github </h1>
   <h1> 2. Jenkins Pulls the code from Github</h1>
