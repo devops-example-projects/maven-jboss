@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: maven-jboss
-        image: adityadevops/maven-jboss:latest
+        image: adityadevops/maven-jboss
         ports:
         - containerPort: 8080
 ---
