@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="pink">
+<body bgcolor="red">
  <center>
 <h1> JENKINS KUBERNETES CI CD INTEGRATION</h1>
   </center>
